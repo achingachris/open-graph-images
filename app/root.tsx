@@ -21,6 +21,8 @@ export const meta: MetaFunction = () => ({
   'og:title': 'Hackmamba, The Great Blog',
   'og:description':
     'Focus on building your product while our team of creators, product managers, and developer advocates create and deliver the right content for you',
+  'og:url': 'https://open-graph-images-three.vercel.app/',
+  'og:type': 'website',
   title: 'Hackmamba, The Great Blog',
   description:
     'Focus on building your product while our team of creators, product managers, and developer advocates create and deliver the right content for you',
